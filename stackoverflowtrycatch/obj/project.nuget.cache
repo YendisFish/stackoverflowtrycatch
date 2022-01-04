@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RXm6zWSZjllDs5n7/oCIwlM+2+Hz4QAMFcf8m+tH1DkivYj5xnfFvb7AXV4vOlwqm6yiAgRezXaPme8GngA9VQ==",
+  "success": true,
+  "projectFilePath": "/home/snib/stackoverflowtrycatch/stackoverflowtrycatch/stackoverflowtrycatch.csproj",
+  "expectedPackageFiles": [
+    "/home/snib/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
